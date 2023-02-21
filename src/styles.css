@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+.app{
+ padding: 20px;
+}
+
+.checkboxes-outer-wrapper {
+  display: flex;
+  gap: 25px;
+}
+
+.regular-checkboxes-outer-wrapper {
+  display: flex;
+  gap: 70px;
+  margin-bottom: 25px;
+}
